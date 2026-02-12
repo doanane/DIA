@@ -548,3 +548,22 @@
 [01:42:57] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
 [01:42:59] [doanane@xmpp.jp] DETECTED: building_collapse - HIGH - 428 people
 [01:43:00] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:43:05] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:43:09] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:43:10] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:43:12] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:43:13] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:43:14] [doanane@xmpp.jp] DETECTED: fire - HIGH - 185 people
+[01:43:16] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:43:20] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:43:25] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:43:27] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:43:29] [doanane@xmpp.jp] DETECTED: flood - HIGH - 493 people
+[01:43:29] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:43:30] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:43:33] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:43:36] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:43:40] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:43:42] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:43:44] [doanane@xmpp.jp] DETECTED: fire - MEDIUM - 347 people
+[01:43:45] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
