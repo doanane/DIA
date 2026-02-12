@@ -1,0 +1,56 @@
+[01:22:10] [doanane@xmpp.jp] COMMAND CENTER ONLINE - Disaster coordination active
+[01:22:10] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:22:14] [doanane@xmpp.jp] SENSOR AGENT ONLINE - Monitoring environmental sensors
+[01:22:14] [doanane@xmpp.jp] DETECTED: flood - CRITICAL - 140 people
+[01:22:17] [doanane@xmpp.jp] FIRE ENGINE FT-e711 ONLINE - Ready for deployment
+[01:22:20] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:22:21] [doanane@xmpp.jp] FIRE ENGINE FT-5040 ONLINE - Ready for deployment
+[01:22:24] [doanane@xmpp.jp] AMBULANCE ALS-dab3 ONLINE - Medical response ready
+[01:22:28] [doanane@xmpp.jp] AMBULANCE ALS-28ba ONLINE - Medical response ready
+[01:22:29] [doanane@xmpp.jp] DETECTED: earthquake - HIGH - 476 people
+[01:22:30] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:22:31] [doanane@xmpp.jp] AMBULANCE ALS-2cb8 ONLINE - Medical response ready
+[01:22:35] [doanane@xmpp.jp] EVACUATION UNIT EVAC-17c6 ONLINE - Mass rescue ready
+[01:22:38] [doanane@xmpp.jp] EVACUATION UNIT EVAC-59a7 ONLINE - Mass rescue ready
+[01:22:40] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:22:42] [doanane@xmpp.jp] HOSPITAL ONLINE - Level 1 Trauma Center - 150 beds available
+[01:22:42] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:22:44] [doanane@xmpp.jp] DETECTED: fire - MEDIUM - 427 people
+[01:22:45] [doanane@xmpp.jp] TRAFFIC CONTROL NORTH ONLINE - Intelligent routing active
+[01:22:46] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:22:49] [doanane@xmpp.jp] TRAFFIC CONTROL SOUTH ONLINE - Intelligent routing active
+[01:22:49] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:22:50] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:22:53] [doanane@xmpp.jp] TRAFFIC CONTROL EAST ONLINE - Intelligent routing active
+[01:22:53] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:22:56] [doanane@xmpp.jp] TRAFFIC CONTROL WEST ONLINE - Intelligent routing active
+[01:22:56] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:22:57] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:22:59] [doanane@xmpp.jp] DETECTED: chemical_spill - CRITICAL - 213 people
+[01:23:00] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:05] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:23:09] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:23:10] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:12] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:23:13] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:23:14] [doanane@xmpp.jp] DETECTED: building_collapse - HIGH - 68 people
+[01:23:16] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:23:20] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:25] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:23:27] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:23:29] [doanane@xmpp.jp] DETECTED: flood - MEDIUM - 365 people
+[01:23:29] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:23:30] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:33] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:23:36] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:23:40] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:42] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:23:44] [doanane@xmpp.jp] DETECTED: earthquake - CRITICAL - 317 people
+[01:23:45] [doanane@xmpp.jp] TRAFFIC ZONE NORTH: NORMAL - Routes cleared: 0
+[01:23:49] [doanane@xmpp.jp] TRAFFIC ZONE SOUTH: NORMAL - Routes cleared: 0
+[01:23:50] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
+[01:23:53] [doanane@xmpp.jp] TRAFFIC ZONE EAST: NORMAL - Routes cleared: 0
+[01:23:56] [doanane@xmpp.jp] TRAFFIC ZONE WEST: NORMAL - Routes cleared: 0
+[01:23:57] [doanane@xmpp.jp] HOSPITAL STATUS: 150/150 beds - 0% occupied
+[01:23:59] [doanane@xmpp.jp] DETECTED: earthquake - MEDIUM - 302 people
+[01:24:00] [doanane@xmpp.jp] STATUS: 0 active | FIRE: 3 | AMB: 3 | EVAC: 2 | SAVED: 0
