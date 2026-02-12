@@ -1,0 +1,993 @@
+[02:17:27] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[02:17:57] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[02:18:21] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[02:18:21] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:18:25] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[02:18:25] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:165 | Casualties:33
+[02:18:28] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[02:18:28] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2972 | Casualties:297
+[02:19:39] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[02:19:39] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:19:43] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[02:19:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:859 | Casualties:300
+[02:19:46] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[02:19:46] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:4070 | Casualties:1424
+[02:19:50] [RESCUE-RU-19a1] INITIALIZED | Status: AVAILABLE | Ready for deployment
+[02:19:52] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[02:19:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:19:53] [RESCUE-RU-1c1f] INITIALIZED | Status: AVAILABLE | Ready for deployment
+[02:19:54] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:19:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3583 | Casualties:1254
+[02:19:55] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[02:19:56] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1976 | Casualties:197
+[02:19:58] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:251 | Casualties:25
+[02:20:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:20:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:328 | Casualties:114
+[02:20:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4753 | Casualties:1663
+[02:20:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:20:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2189 | Casualties:437
+[02:20:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:20:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4750 | Casualties:475
+[02:20:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:20:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3293 | Casualties:1152
+[02:21:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:21:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3134 | Casualties:626
+[02:21:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3939 | Casualties:1378
+[02:21:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:21:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1595 | Casualties:159
+[02:21:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:21:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:399 | Casualties:79
+[02:21:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:21:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2946 | Casualties:294
+[02:22:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:22:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2239 | Casualties:223
+[02:22:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1378 | Casualties:137
+[02:22:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:22:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4053 | Casualties:1418
+[02:22:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:22:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:2238 | Casualties:447
+[02:22:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:22:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3804 | Casualties:1331
+[02:23:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:23:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3110 | Casualties:1088
+[02:23:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:4243 | Casualties:1485
+[02:23:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:23:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4959 | Casualties:495
+[02:23:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:23:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3250 | Casualties:325
+[02:23:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:23:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4437 | Casualties:887
+[02:24:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:24:07] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4682 | Casualties:468
+[02:24:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1530 | Casualties:153
+[02:24:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:24:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:207 | Casualties:20
+[02:24:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:24:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1631 | Casualties:163
+[02:24:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:24:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1766 | Casualties:618
+[02:25:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:25:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:446 | Casualties:156
+[02:25:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3300 | Casualties:660
+[02:25:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:25:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2529 | Casualties:505
+[02:25:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:25:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2789 | Casualties:976
+[02:25:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:25:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1225 | Casualties:245
+[02:26:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:26:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2521 | Casualties:504
+[02:26:19] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1351 | Casualties:270
+[02:26:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:26:31] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1710 | Casualties:171
+[02:26:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:26:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:551 | Casualties:55
+[02:26:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:26:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3430 | Casualties:686
+[02:27:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:27:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2401 | Casualties:840
+[02:27:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1980 | Casualties:198
+[02:27:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:27:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:4237 | Casualties:423
+[02:27:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:27:43] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:548 | Casualties:54
+[02:27:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:27:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1073 | Casualties:107
+[02:28:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:28:07] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3822 | Casualties:1337
+[02:28:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3468 | Casualties:693
+[02:28:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:28:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3791 | Casualties:379
+[02:28:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:28:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:4039 | Casualties:1413
+[02:28:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:28:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:4641 | Casualties:464
+[02:29:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:29:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4346 | Casualties:434
+[02:29:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2732 | Casualties:273
+[02:29:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:29:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1734 | Casualties:346
+[02:29:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:29:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1143 | Casualties:114
+[02:29:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:29:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4860 | Casualties:486
+[02:30:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:30:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:1424 | Casualties:142
+[02:30:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:4118 | Casualties:411
+[02:30:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:30:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4493 | Casualties:449
+[02:30:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:30:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4368 | Casualties:873
+[02:30:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:30:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3972 | Casualties:1390
+[02:31:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:31:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:700 | Casualties:244
+[02:31:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:4525 | Casualties:1583
+[02:31:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:31:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4236 | Casualties:847
+[02:31:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:31:43] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:3193 | Casualties:319
+[02:31:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:31:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:856 | Casualties:171
+[02:32:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:32:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2260 | Casualties:226
+[02:32:19] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:145 | Casualties:14
+[02:32:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:32:31] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:3919 | Casualties:1371
+[02:32:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:32:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:743 | Casualties:74
+[02:32:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:32:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4040 | Casualties:808
+[02:33:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:33:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2068 | Casualties:206
+[02:33:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:3464 | Casualties:1212
+[02:33:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:33:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2192 | Casualties:219
+[02:33:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:33:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4710 | Casualties:471
+[02:33:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:33:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2564 | Casualties:256
+[02:34:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:34:07] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:206 | Casualties:72
+[02:34:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1351 | Casualties:135
+[02:34:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:34:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:693 | Casualties:69
+[02:34:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:34:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4312 | Casualties:1509
+[02:34:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:34:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3444 | Casualties:344
+[02:35:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:35:07] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2301 | Casualties:805
+[02:35:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1935 | Casualties:677
+[02:35:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:35:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4903 | Casualties:1716
+[02:35:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:35:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4285 | Casualties:1499
+[02:35:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:35:55] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4122 | Casualties:1442
+[02:36:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:36:07] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:4486 | Casualties:448
+[02:36:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:908 | Casualties:90
+[02:36:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:36:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4704 | Casualties:470
+[02:36:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:36:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3593 | Casualties:359
+[02:36:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:36:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:2893 | Casualties:578
+[02:37:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:37:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3240 | Casualties:324
+[02:37:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1727 | Casualties:604
+[02:37:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:37:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3917 | Casualties:391
+[02:37:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:37:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3628 | Casualties:1269
+[02:37:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:37:55] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3135 | Casualties:313
+[02:38:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:38:07] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3280 | Casualties:328
+[02:38:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:4035 | Casualties:403
+[02:38:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:38:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3667 | Casualties:366
+[02:38:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:38:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4066 | Casualties:813
+[02:38:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:38:55] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3787 | Casualties:378
+[02:39:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:39:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3073 | Casualties:614
+[02:39:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:130 | Casualties:13
+[02:39:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:39:31] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:174 | Casualties:17
+[02:39:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:39:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4027 | Casualties:805
+[02:39:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:39:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:1896 | Casualties:379
+[02:40:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:40:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:4402 | Casualties:440
+[02:40:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1386 | Casualties:138
+[02:40:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:40:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:271 | Casualties:27
+[02:40:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:40:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:1876 | Casualties:187
+[02:40:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:40:55] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:743 | Casualties:74
+[02:41:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:41:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:161 | Casualties:16
+[02:41:19] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:117 | Casualties:40
+[02:41:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:41:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4962 | Casualties:496
+[02:41:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:41:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:355 | Casualties:35
+[02:41:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:41:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:863 | Casualties:172
+[02:42:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:42:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1916 | Casualties:191
+[02:42:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3503 | Casualties:350
+[02:42:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:42:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4921 | Casualties:1722
+[02:42:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:42:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4880 | Casualties:1708
+[02:42:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:42:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:406 | Casualties:40
+[02:43:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:43:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2509 | Casualties:501
+[02:43:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:3093 | Casualties:309
+[02:43:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:43:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:4166 | Casualties:416
+[02:43:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:43:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2849 | Casualties:569
+[02:43:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:43:55] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:523 | Casualties:183
+[02:44:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:44:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:187 | Casualties:65
+[02:44:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4625 | Casualties:1618
+[02:44:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:44:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1489 | Casualties:521
+[02:44:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:44:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:2597 | Casualties:908
+[02:44:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:44:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:604 | Casualties:120
+[02:45:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:45:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:4844 | Casualties:484
+[02:45:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2247 | Casualties:224
+[02:45:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:45:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:351 | Casualties:70
+[02:45:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:45:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3180 | Casualties:636
+[02:45:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:45:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1930 | Casualties:386
+[02:46:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:46:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4159 | Casualties:415
+[02:46:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2817 | Casualties:563
+[02:46:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:46:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:315 | Casualties:31
+[02:46:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:46:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1892 | Casualties:378
+[02:46:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:46:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2628 | Casualties:919
+[02:47:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:47:07] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:529 | Casualties:105
+[02:47:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1843 | Casualties:184
+[02:47:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:47:31] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:816 | Casualties:81
+[02:47:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:47:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:732 | Casualties:146
+[02:47:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:47:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1193 | Casualties:238
+[02:48:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:48:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4871 | Casualties:974
+[02:48:19] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3932 | Casualties:393
+[02:48:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:48:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3439 | Casualties:343
+[02:48:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:48:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4567 | Casualties:1598
+[02:48:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:48:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4539 | Casualties:1588
+[02:49:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:49:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2378 | Casualties:237
+[02:49:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3241 | Casualties:1134
+[02:49:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:49:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1397 | Casualties:279
+[02:49:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:49:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3737 | Casualties:1307
+[02:49:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:49:55] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3163 | Casualties:316
+[02:50:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:50:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:1869 | Casualties:186
+[02:50:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4803 | Casualties:960
+[02:50:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:50:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3333 | Casualties:333
+[02:50:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:50:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3229 | Casualties:1130
+[02:50:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:50:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2007 | Casualties:401
+[02:51:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:51:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1161 | Casualties:406
+[02:51:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:236 | Casualties:23
+[02:51:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:51:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3877 | Casualties:387
+[02:51:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:51:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4054 | Casualties:1418
+[02:51:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:51:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:713 | Casualties:71
+[02:52:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:52:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:1765 | Casualties:353
+[02:52:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:3587 | Casualties:717
+[02:52:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:52:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4671 | Casualties:934
+[02:52:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:52:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3535 | Casualties:707
+[02:52:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:52:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:481 | Casualties:96
+[02:53:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:53:07] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4889 | Casualties:1711
+[02:53:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1000 | Casualties:350
+[02:53:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:53:31] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2257 | Casualties:789
+[02:53:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:53:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4827 | Casualties:482
+[02:53:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:53:55] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:2100 | Casualties:210
+[02:54:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:54:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3852 | Casualties:770
+[02:54:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3027 | Casualties:302
+[02:54:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:54:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1684 | Casualties:168
+[02:54:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:54:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:4367 | Casualties:1528
+[02:54:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:54:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4873 | Casualties:487
+[02:55:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:55:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1297 | Casualties:259
+[02:55:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2911 | Casualties:582
+[02:55:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:55:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3179 | Casualties:635
+[02:55:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:55:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1804 | Casualties:180
+[02:55:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:55:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2678 | Casualties:267
+[02:56:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:56:07] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:4881 | Casualties:976
+[02:56:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4635 | Casualties:463
+[02:56:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:56:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3831 | Casualties:383
+[02:56:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:56:43] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:1223 | Casualties:122
+[02:56:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:56:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:327 | Casualties:65
+[02:57:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:57:07] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4078 | Casualties:815
+[02:57:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1860 | Casualties:372
+[02:57:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:57:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:4240 | Casualties:424
+[02:57:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:57:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:701 | Casualties:70
+[02:57:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:57:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4433 | Casualties:443
+[02:58:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:58:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:4632 | Casualties:463
+[02:58:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1093 | Casualties:382
+[02:58:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:58:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3661 | Casualties:1281
+[02:58:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:58:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:236 | Casualties:82
+[02:58:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:58:55] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:3865 | Casualties:1352
+[02:59:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:59:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4095 | Casualties:819
+[02:59:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2056 | Casualties:205
+[02:59:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:59:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1009 | Casualties:100
+[02:59:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:59:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1104 | Casualties:386
+[02:59:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[02:59:55] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:3546 | Casualties:354
+[03:00:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:00:07] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:1431 | Casualties:143
+[03:00:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4952 | Casualties:495
+[03:00:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:00:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4020 | Casualties:402
+[03:00:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:00:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1147 | Casualties:229
+[03:00:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:00:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4218 | Casualties:421
+[03:01:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:01:07] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4845 | Casualties:484
+[03:01:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:429 | Casualties:42
+[03:01:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:01:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2045 | Casualties:409
+[03:01:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:01:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:2335 | Casualties:233
+[03:01:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:01:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1146 | Casualties:114
+[03:02:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:02:07] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1776 | Casualties:177
+[03:02:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:462 | Casualties:46
+[03:02:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:02:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3897 | Casualties:779
+[03:02:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:02:43] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3298 | Casualties:329
+[03:02:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:02:55] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4016 | Casualties:401
+[03:03:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:03:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4990 | Casualties:499
+[03:03:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1180 | Casualties:413
+[03:03:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:03:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3605 | Casualties:360
+[03:03:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:03:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:2825 | Casualties:988
+[03:03:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:03:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1132 | Casualties:396
+[03:04:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:04:07] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2770 | Casualties:277
+[03:04:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4119 | Casualties:1441
+[03:04:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:04:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3198 | Casualties:639
+[03:04:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:04:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:395 | Casualties:39
+[03:04:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:04:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3130 | Casualties:313
+[03:05:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:05:07] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:4982 | Casualties:1743
+[03:05:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2595 | Casualties:259
+[03:05:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:05:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2179 | Casualties:217
+[03:05:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:05:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:2658 | Casualties:265
+[03:05:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:05:55] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:748 | Casualties:261
+[03:06:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:06:07] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2081 | Casualties:728
+[03:06:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2971 | Casualties:297
+[03:06:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:06:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1343 | Casualties:470
+[03:06:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:06:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3128 | Casualties:625
+[03:06:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:06:55] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:149 | Casualties:14
+[03:07:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:07:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3315 | Casualties:331
+[03:07:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:415 | Casualties:83
+[03:07:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:07:31] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3639 | Casualties:363
+[03:07:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:07:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:1756 | Casualties:175
+[03:07:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:07:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3506 | Casualties:701
+[03:08:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:08:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2598 | Casualties:259
+[03:08:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:197 | Casualties:68
+[03:08:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:08:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2761 | Casualties:276
+[03:08:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:08:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1763 | Casualties:352
+[03:08:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:08:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4066 | Casualties:406
+[03:09:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:09:07] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4176 | Casualties:417
+[03:09:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2407 | Casualties:240
+[03:09:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:09:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1630 | Casualties:570
+[03:09:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:09:43] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:4840 | Casualties:484
+[03:09:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:09:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2458 | Casualties:245
+[03:10:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:10:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2788 | Casualties:278
+[03:10:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3681 | Casualties:368
+[03:10:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:10:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:258 | Casualties:25
+[03:10:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:10:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:920 | Casualties:184
+[03:10:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:10:55] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3173 | Casualties:317
+[03:11:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:11:07] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:244 | Casualties:48
+[03:11:19] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3307 | Casualties:330
+[03:11:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:11:31] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2335 | Casualties:817
+[03:11:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:11:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3587 | Casualties:358
+[03:11:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:11:55] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2549 | Casualties:892
+[03:12:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:12:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2961 | Casualties:296
+[03:12:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4680 | Casualties:936
+[03:12:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:12:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:413 | Casualties:41
+[03:12:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:12:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2010 | Casualties:402
+[03:12:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:12:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:827 | Casualties:82
+[03:13:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:13:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1770 | Casualties:619
+[03:13:19] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:596 | Casualties:59
+[03:13:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:13:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:2977 | Casualties:1041
+[03:13:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:13:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3060 | Casualties:306
+[03:13:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:13:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3018 | Casualties:603
+[03:14:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:14:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1274 | Casualties:445
+[03:14:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:971 | Casualties:339
+[03:14:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:14:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4489 | Casualties:448
+[03:14:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:14:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2730 | Casualties:546
+[03:14:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:14:55] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1291 | Casualties:129
+[03:15:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:15:07] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:1640 | Casualties:164
+[03:15:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3351 | Casualties:670
+[03:15:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:15:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2923 | Casualties:292
+[03:15:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:15:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4044 | Casualties:1415
+[03:15:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:15:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1207 | Casualties:422
+[03:16:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:16:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1916 | Casualties:191
+[03:16:19] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1696 | Casualties:339
+[03:16:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:16:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1227 | Casualties:245
+[03:16:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:16:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3431 | Casualties:1200
+[03:16:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:16:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3682 | Casualties:1288
+[03:17:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:17:07] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4328 | Casualties:865
+[03:17:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:232 | Casualties:23
+[03:17:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:17:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:492 | Casualties:49
+[03:17:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:17:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2375 | Casualties:831
+[03:17:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:17:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3717 | Casualties:371
+[03:18:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:18:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4739 | Casualties:947
+[03:18:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2159 | Casualties:215
+[03:18:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:18:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:2064 | Casualties:206
+[03:18:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:18:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3969 | Casualties:396
+[03:18:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:18:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:4513 | Casualties:451
+[03:19:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:19:07] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:730 | Casualties:73
+[03:19:19] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3540 | Casualties:354
+[03:19:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:19:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:462 | Casualties:92
+[03:19:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:19:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4877 | Casualties:487
+[03:19:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:19:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2794 | Casualties:279
+[03:20:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:20:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4134 | Casualties:413
+[03:20:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4018 | Casualties:1406
+[03:20:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:20:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3613 | Casualties:361
+[03:20:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:20:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:384 | Casualties:134
+[03:20:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:20:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4085 | Casualties:1429
+[03:21:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:21:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2913 | Casualties:582
+[03:21:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:499 | Casualties:49
+[03:21:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:21:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3856 | Casualties:1349
+[03:21:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:21:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3963 | Casualties:396
+[03:21:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:21:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:483 | Casualties:96
+[03:22:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:22:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1786 | Casualties:625
+[03:22:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:725 | Casualties:72
+[03:22:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:22:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:220 | Casualties:77
+[03:22:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:22:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:936 | Casualties:93
+[03:22:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:22:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2014 | Casualties:201
+[03:23:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:23:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2809 | Casualties:561
+[03:23:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2827 | Casualties:989
+[03:23:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:23:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:1794 | Casualties:179
+[03:23:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:23:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3097 | Casualties:1083
+[03:23:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:23:55] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2932 | Casualties:586
+[03:24:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:24:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1186 | Casualties:237
+[03:24:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3597 | Casualties:359
+[03:24:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:24:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3568 | Casualties:1248
+[03:24:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:24:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4592 | Casualties:918
+[03:24:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:24:55] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2491 | Casualties:249
+[03:25:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:25:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3779 | Casualties:377
+[03:25:19] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3562 | Casualties:356
+[03:25:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:25:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3982 | Casualties:1393
+[03:25:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:25:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1559 | Casualties:155
+[03:25:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:25:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:824 | Casualties:288
+[03:26:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:26:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3262 | Casualties:326
+[03:26:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:3741 | Casualties:374
+[03:26:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:26:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:1648 | Casualties:164
+[03:26:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:26:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1894 | Casualties:662
+[03:26:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:26:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2129 | Casualties:212
+[03:27:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:27:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3093 | Casualties:309
+[03:27:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:1314 | Casualties:131
+[03:27:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:27:31] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1166 | Casualties:116
+[03:27:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:27:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4203 | Casualties:1471
+[03:27:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:27:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:4796 | Casualties:959
+[03:28:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:28:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:2768 | Casualties:968
+[03:28:19] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3774 | Casualties:377
+[03:28:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:28:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3613 | Casualties:1264
+[03:28:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:28:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1493 | Casualties:298
+[03:28:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:28:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:690 | Casualties:69
+[03:29:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:29:07] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4736 | Casualties:473
+[03:29:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1820 | Casualties:182
+[03:29:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:29:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:4901 | Casualties:490
+[03:29:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:29:43] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1087 | Casualties:217
+[03:29:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:29:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2297 | Casualties:459
+[03:30:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:30:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:279 | Casualties:55
+[03:30:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2821 | Casualties:282
+[03:30:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:30:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:587 | Casualties:205
+[03:30:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:30:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2278 | Casualties:455
+[03:30:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:30:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1100 | Casualties:220
+[03:31:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:31:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4115 | Casualties:823
+[03:31:19] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3750 | Casualties:375
+[03:31:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:31:31] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1729 | Casualties:605
+[03:31:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:31:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1605 | Casualties:561
+[03:31:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:31:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3350 | Casualties:335
+[03:32:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:32:07] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2360 | Casualties:472
+[03:32:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:807 | Casualties:161
+[03:32:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:32:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3909 | Casualties:390
+[03:32:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:32:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3673 | Casualties:367
+[03:32:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:32:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:4907 | Casualties:490
+[03:33:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:33:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2436 | Casualties:243
+[03:33:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1348 | Casualties:471
+[03:33:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:33:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3042 | Casualties:304
+[03:33:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:33:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2254 | Casualties:450
+[03:33:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:33:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4732 | Casualties:946
+[03:34:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:34:07] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:1667 | Casualties:583
+[03:34:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3629 | Casualties:725
+[03:34:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:34:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3890 | Casualties:389
+[03:34:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:34:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3692 | Casualties:738
+[03:34:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:34:55] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:2451 | Casualties:245
+[03:35:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:35:07] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4222 | Casualties:1477
+[03:35:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2384 | Casualties:476
+[03:35:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:35:31] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:396 | Casualties:39
+[03:35:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:35:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3309 | Casualties:330
+[03:35:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:35:55] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2212 | Casualties:221
+[03:36:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:36:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3046 | Casualties:304
+[03:36:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3145 | Casualties:314
+[03:36:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:36:31] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3581 | Casualties:358
+[03:36:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:36:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1883 | Casualties:376
+[03:36:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:36:55] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:1238 | Casualties:433
+[03:37:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:37:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2659 | Casualties:265
+[03:37:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:2163 | Casualties:757
+[03:37:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:37:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2571 | Casualties:257
+[03:37:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:37:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3824 | Casualties:382
+[03:37:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:37:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:333 | Casualties:116
+[03:38:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:38:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4996 | Casualties:1748
+[03:38:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4895 | Casualties:979
+[03:38:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:38:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2257 | Casualties:451
+[03:38:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:38:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4500 | Casualties:900
+[03:38:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:38:55] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:686 | Casualties:68
+[03:39:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:39:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:451 | Casualties:45
+[03:39:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:1656 | Casualties:165
+[03:39:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:39:31] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:116 | Casualties:40
+[03:39:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:39:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:282 | Casualties:28
+[03:39:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:39:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:558 | Casualties:55
+[03:40:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:40:07] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:2446 | Casualties:244
+[03:40:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:906 | Casualties:90
+[03:40:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:40:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4055 | Casualties:405
+[03:40:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:40:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2321 | Casualties:464
+[03:40:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:40:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:437 | Casualties:43
+[03:41:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:41:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2340 | Casualties:468
+[03:41:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3819 | Casualties:763
+[03:41:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:41:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4059 | Casualties:811
+[03:41:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:41:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:1243 | Casualties:124
+[03:41:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:41:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2433 | Casualties:243
+[03:42:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:42:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:4853 | Casualties:485
+[03:42:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1193 | Casualties:119
+[03:42:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:42:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2996 | Casualties:299
+[03:42:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:42:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:502 | Casualties:100
+[03:42:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:42:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4891 | Casualties:1711
+[03:43:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:43:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:1625 | Casualties:162
+[03:43:19] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:3814 | Casualties:1334
+[03:43:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:43:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2182 | Casualties:436
+[03:43:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:43:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1857 | Casualties:649
+[03:43:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:43:55] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2582 | Casualties:258
+[03:44:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:44:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:1107 | Casualties:110
+[03:44:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:1391 | Casualties:278
+[03:44:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:44:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3458 | Casualties:691
+[03:44:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:44:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4810 | Casualties:481
+[03:44:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:44:55] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:528 | Casualties:184
+[03:45:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:45:07] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4843 | Casualties:484
+[03:45:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4799 | Casualties:959
+[03:45:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:45:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3299 | Casualties:329
+[03:45:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:45:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4247 | Casualties:424
+[03:45:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:45:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2194 | Casualties:219
+[03:46:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:46:07] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2324 | Casualties:464
+[03:46:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:4167 | Casualties:1458
+[03:46:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:46:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4893 | Casualties:978
+[03:46:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:46:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:352 | Casualties:70
+[03:46:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:46:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:2785 | Casualties:974
+[03:47:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:47:07] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3446 | Casualties:689
+[03:47:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4329 | Casualties:1515
+[03:47:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:47:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2701 | Casualties:945
+[03:47:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:47:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1967 | Casualties:196
+[03:47:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:47:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:390 | Casualties:39
+[03:48:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:48:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1331 | Casualties:133
+[03:48:19] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:3750 | Casualties:375
+[03:48:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:48:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4885 | Casualties:488
+[03:48:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:48:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1439 | Casualties:503
+[03:48:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:48:55] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3939 | Casualties:787
+[03:49:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:49:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4517 | Casualties:451
+[03:49:19] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1433 | Casualties:143
+[03:49:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:49:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4025 | Casualties:402
+[03:49:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:49:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2615 | Casualties:261
+[03:49:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:49:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3463 | Casualties:1212
+[03:50:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:50:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4361 | Casualties:436
+[03:50:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:2797 | Casualties:978
+[03:50:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:50:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3611 | Casualties:1263
+[03:50:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:50:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:604 | Casualties:120
+[03:50:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:50:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1161 | Casualties:406
+[03:51:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:51:07] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2277 | Casualties:227
+[03:51:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4768 | Casualties:476
+[03:51:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:51:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1555 | Casualties:544
+[03:51:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:51:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:295 | Casualties:59
+[03:51:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:51:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2063 | Casualties:412
+[03:52:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:52:07] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:4188 | Casualties:418
+[03:52:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2530 | Casualties:253
+[03:52:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:52:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:4473 | Casualties:1565
+[03:52:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:52:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4326 | Casualties:432
+[03:52:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:52:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:4302 | Casualties:1505
+[03:53:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:53:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1703 | Casualties:340
+[03:53:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1758 | Casualties:351
+[03:53:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:53:31] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:4150 | Casualties:415
+[03:53:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:53:43] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3288 | Casualties:328
+[03:53:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:53:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:145 | Casualties:14
+[03:54:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:54:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2570 | Casualties:514
+[03:54:19] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1290 | Casualties:258
+[03:54:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:54:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3121 | Casualties:624
+[03:54:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:54:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3115 | Casualties:311
+[03:54:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:54:55] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:1861 | Casualties:651
+[03:55:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:55:07] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:945 | Casualties:330
+[03:55:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:4691 | Casualties:938
+[03:55:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:55:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3702 | Casualties:1295
+[03:55:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:55:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1466 | Casualties:146
+[03:55:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:55:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1664 | Casualties:166
+[03:56:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:56:07] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4674 | Casualties:467
+[03:56:19] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:253 | Casualties:88
+[03:56:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:56:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:821 | Casualties:82
+[03:56:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:56:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2980 | Casualties:1043
+[03:56:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:56:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3163 | Casualties:316
+[03:57:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:57:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2639 | Casualties:527
+[03:57:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2641 | Casualties:264
+[03:57:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:57:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:981 | Casualties:196
+[03:57:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:57:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3731 | Casualties:1305
+[03:57:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:57:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:926 | Casualties:324
+[03:58:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:58:07] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2188 | Casualties:218
+[03:58:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3676 | Casualties:367
+[03:58:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:58:31] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1115 | Casualties:223
+[03:58:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:58:43] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2144 | Casualties:750
+[03:58:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:58:55] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3330 | Casualties:333
+[03:59:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:59:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3922 | Casualties:392
+[03:59:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:628 | Casualties:62
+[03:59:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:59:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3041 | Casualties:304
+[03:59:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:59:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1350 | Casualties:135
+[03:59:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[03:59:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3471 | Casualties:347
+[04:00:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:00:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3207 | Casualties:1122
+[04:00:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3679 | Casualties:367
+[04:00:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:00:31] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1116 | Casualties:111
+[04:00:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:00:43] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:544 | Casualties:54
+[04:00:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:00:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1656 | Casualties:331
+[04:01:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:01:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:3128 | Casualties:312
+[04:01:19] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1616 | Casualties:323
+[04:01:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:01:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:409 | Casualties:40
+[04:01:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:01:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:180 | Casualties:18
+[04:01:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:01:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1070 | Casualties:214
+[04:02:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:02:07] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4352 | Casualties:435
+[04:02:19] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3436 | Casualties:687
+[04:02:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:02:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2259 | Casualties:790
+[04:02:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:02:43] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:1186 | Casualties:118
+[04:02:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:02:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3210 | Casualties:321
+[04:03:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:03:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3976 | Casualties:1391
+[04:03:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1009 | Casualties:201
+[04:03:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:03:31] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3168 | Casualties:1108
+[04:03:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:03:43] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2651 | Casualties:927
+[04:03:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:03:55] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1972 | Casualties:197
+[04:04:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:04:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4096 | Casualties:1433
+[04:04:19] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3707 | Casualties:370
+[04:04:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:04:31] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4109 | Casualties:821
+[04:04:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:04:43] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3896 | Casualties:389
+[04:04:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:04:55] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:2590 | Casualties:259
+[04:05:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:05:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4204 | Casualties:1471
+[04:05:19] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:377 | Casualties:75
+[04:05:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:05:31] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:2341 | Casualties:468
+[04:05:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:05:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4727 | Casualties:945
+[04:05:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:05:55] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3684 | Casualties:1289
+[04:06:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:06:07] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2723 | Casualties:272
+[04:06:19] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1827 | Casualties:182
+[04:06:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:06:31] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2919 | Casualties:291
+[04:06:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:06:43] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3985 | Casualties:797
+[04:06:52] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:06:55] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:4582 | Casualties:1603
+[04:07:07] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:07:07] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2314 | Casualties:462
+[04:07:19] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4334 | Casualties:433
+[04:07:22] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:07:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3679 | Casualties:367
+[04:07:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[04:07:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1987 | Casualties:695
