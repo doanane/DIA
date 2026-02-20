@@ -1,0 +1,115 @@
+RESCUE ROBOT SIMULATION - LAB 3: GOALS, EVENTS, AND REACTIVE BEHAVIOR
+[FSM] Initialized in idle state
+
+=== SIMULATION START ===
+
+--- Simulation Step 1 ---
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (-4, -3), 'severity': 'critical', 'id': 451}
+[FSM] State transition: idle -> searching
+[STATE] Entering SEARCHING mode
+[ROBOT] Scanning area for victims...
+[ROBOT] Scanning area for victims...
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (-2, 3), 'severity': 'critical', 'id': 354}
+[FSM] State transition: searching -> rescuing
+[STATE] Entering RESCUING mode for victim at (-2, 3)
+[ACTUATOR] Moved to (-2, 3), battery: 98.2%
+[ACTUATOR] Performing rescue on victim 354
+[EVENT] rescue_complete published
+[HANDLER] Rescue complete
+[FSM] State transition: rescuing -> returning_home
+[STATE] Entering RETURNING_HOME mode
+[ROBOT] Returning to base with rescued victim
+[ACTUATOR] Returning to base
+[ACTUATOR] Moved to (0, 0), battery: 86.4%
+[EVENT] at_base published
+[HANDLER] At base
+[FSM] State transition: returning_home -> idle
+[STATE] Entering IDLE mode
+[ROBOT] Waiting for new tasks...
+
+--- Simulation Step 2 ---
+
+--- Simulation Step 3 ---
+[EVENT] hazard_detected published
+[HANDLER] Hazard detected: {'type': 'fire', 'location': (0, 0), 'severity': 0.5664254039240202}
+[FSM] State transition: idle -> avoiding
+[STATE] Entering AVOIDING mode for fire hazard
+[ACTUATOR] Avoiding fire hazard
+[ACTUATOR] Moved to (-4, 5), battery: 83.2%
+[EVENT] hazard_cleared published
+[HANDLER] Hazard cleared
+[FSM] State transition: avoiding -> searching
+[STATE] Entering SEARCHING mode
+[ROBOT] Scanning area for victims...
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (-6, 2), 'severity': 'moderate', 'id': 949}
+[FSM] State transition: searching -> rescuing
+[STATE] Entering RESCUING mode for victim at (-6, 2)
+[ACTUATOR] Moved to (-6, 2), battery: 81.4%
+[ACTUATOR] Performing rescue on victim 949
+[EVENT] rescue_complete published
+[HANDLER] Rescue complete
+[FSM] State transition: rescuing -> returning_home
+[STATE] Entering RETURNING_HOME mode
+[ROBOT] Returning to base with rescued victim
+[ACTUATOR] Returning to base
+[ACTUATOR] Moved to (0, 0), battery: 68.2%
+[EVENT] at_base published
+[HANDLER] At base
+[FSM] State transition: returning_home -> idle
+[STATE] Entering IDLE mode
+[ROBOT] Waiting for new tasks...
+
+--- Simulation Step 4 ---
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (-5, -1), 'severity': 'minor', 'id': 516}
+[FSM] State transition: idle -> searching
+[STATE] Entering SEARCHING mode
+[ROBOT] Scanning area for victims...
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (2, -3), 'severity': 'minor', 'id': 824}
+[FSM] State transition: searching -> rescuing
+[STATE] Entering RESCUING mode for victim at (2, -3)
+[ACTUATOR] Moved to (2, -3), battery: 66.4%
+[ACTUATOR] Performing rescue on victim 824
+[EVENT] rescue_complete published
+[HANDLER] Rescue complete
+[FSM] State transition: rescuing -> returning_home
+[STATE] Entering RETURNING_HOME mode
+[ROBOT] Returning to base with rescued victim
+[ACTUATOR] Returning to base
+[ACTUATOR] Moved to (0, 0), battery: 54.6%
+[EVENT] at_base published
+[HANDLER] At base
+[FSM] State transition: returning_home -> idle
+[STATE] Entering IDLE mode
+[ROBOT] Waiting for new tasks...
+
+--- Simulation Step 5 ---
+[EVENT] hazard_detected published
+[HANDLER] Hazard detected: {'type': 'toxic_gas', 'location': (0, 0), 'severity': 0.9859967291421857}
+[FSM] State transition: idle -> avoiding
+[STATE] Entering AVOIDING mode for toxic_gas hazard
+[ACTUATOR] Avoiding toxic_gas hazard
+[ACTUATOR] Moved to (-7, -3), battery: 50.8%
+
+--- Simulation Step 6 ---
+
+--- Simulation Step 7 ---
+[EVENT] victim_detected published
+[HANDLER] Victim detected: {'location': (-10, -4), 'severity': 'moderate', 'id': 640}
+
+--- Simulation Step 8 ---
+
+--- Simulation Step 9 ---
+
+--- Simulation Step 10 ---
+[EVENT] hazard_detected published
+[HANDLER] Hazard detected: {'type': 'toxic_gas', 'location': (-7, -3), 'severity': 0.7691543715101082}
+
+=== SIMULATION END ===
+Final battery level: 50.8%
+Final state: avoiding
+Victims rescued: No

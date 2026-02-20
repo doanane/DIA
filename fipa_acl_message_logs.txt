@@ -1,0 +1,603 @@
+================================================================================
+FIPA-ACL MESSAGE EXCHANGE LOGS
+================================================================================
+
+MESSAGE TRANSPORT SERVICE LOGS
+----------------------------------------
+
+--- Log Entry 1 ---
+Timestamp: 2026-02-20T19:19:45.909492
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['searcher_agent']
+  Content: {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}
+  Conversation ID: 07464641-2610-43e2-8f58-c36cd3aabf4f
+
+--- Log Entry 2 ---
+Timestamp: 2026-02-20T19:19:45.909947
+Direction: OUTGOING
+Destination: localhost:6002
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['searcher_agent']
+  Content: {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}
+  Conversation ID: 07464641-2610-43e2-8f58-c36cd3aabf4f
+
+--- Log Entry 3 ---
+Timestamp: 2026-02-20T19:19:45.910321
+Direction: INCOMING
+Message:
+  Performative: agree
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}}
+  Conversation ID: 26a0de30-5d85-40ff-a109-f10b8ff86e0f
+
+--- Log Entry 4 ---
+Timestamp: 2026-02-20T19:19:45.910579
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: agree
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}}
+  Conversation ID: 26a0de30-5d85-40ff-a109-f10b8ff86e0f
+
+--- Log Entry 5 ---
+Timestamp: 2026-02-20T19:19:47.911433
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}}
+  Conversation ID: 3c2bff57-7164-41ea-a936-684fc92a0323
+
+--- Log Entry 6 ---
+Timestamp: 2026-02-20T19:19:47.911637
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'search_area', 'area': 'sector_7', 'priority': 'high', 'grid_size': '10x10'}}
+  Conversation ID: 3c2bff57-7164-41ea-a936-684fc92a0323
+
+--- Log Entry 7 ---
+Timestamp: 2026-02-20T19:19:48.910283
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [23, 45], 'victim_id': 'V001', 'condition': 'conscious', 'priority': 'critical', 'timestamp': '2026-02-20T19:19:48.909608'}
+  Conversation ID: d6659c02-43ea-42f3-9453-5dcbcfd06488
+
+--- Log Entry 8 ---
+Timestamp: 2026-02-20T19:19:48.910687
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [23, 45], 'victim_id': 'V001', 'condition': 'conscious', 'priority': 'critical', 'timestamp': '2026-02-20T19:19:48.909608'}
+  Conversation ID: d6659c02-43ea-42f3-9453-5dcbcfd06488
+
+--- Log Entry 9 ---
+Timestamp: 2026-02-20T19:19:48.911132
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}
+  Conversation ID: 17acff5e-413d-4464-865f-a00c527fd572
+
+--- Log Entry 10 ---
+Timestamp: 2026-02-20T19:19:48.911411
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}
+  Conversation ID: 17acff5e-413d-4464-865f-a00c527fd572
+
+--- Log Entry 11 ---
+Timestamp: 2026-02-20T19:19:48.911821
+Direction: INCOMING
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}}
+  Conversation ID: b70a017c-6680-4d25-bd55-ac49d387815d
+
+--- Log Entry 12 ---
+Timestamp: 2026-02-20T19:19:48.912155
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}}
+  Conversation ID: b70a017c-6680-4d25-bd55-ac49d387815d
+
+--- Log Entry 13 ---
+Timestamp: 2026-02-20T19:19:50.912670
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}}
+  Conversation ID: 8d29c04f-1397-4f3f-87ad-3b2c18a8c42c
+
+--- Log Entry 14 ---
+Timestamp: 2026-02-20T19:19:50.913063
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [23, 45], 'victim_id': 'V001', 'priority': 'critical'}}
+  Conversation ID: 8d29c04f-1397-4f3f-87ad-3b2c18a8c42c
+
+--- Log Entry 15 ---
+Timestamp: 2026-02-20T19:19:51.911441
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent', 'transporter_agent']
+  Content: {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}
+  Conversation ID: 5551242e-92ee-43ae-88c5-e5777b0ff747
+
+--- Log Entry 16 ---
+Timestamp: 2026-02-20T19:19:51.911644
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent', 'transporter_agent']
+  Content: {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}
+  Conversation ID: 5551242e-92ee-43ae-88c5-e5777b0ff747
+
+--- Log Entry 17 ---
+Timestamp: 2026-02-20T19:19:51.911773
+Direction: OUTGOING
+Destination: localhost:6004
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent', 'transporter_agent']
+  Content: {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}
+  Conversation ID: 5551242e-92ee-43ae-88c5-e5777b0ff747
+
+--- Log Entry 18 ---
+Timestamp: 2026-02-20T19:19:51.912628
+Direction: INCOMING
+Message:
+  Performative: refuse
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}}
+  Conversation ID: 5a808e53-21f8-48df-9744-586977e61b5d
+
+--- Log Entry 19 ---
+Timestamp: 2026-02-20T19:19:51.913204
+Direction: INCOMING
+Message:
+  Performative: refuse
+  Sender: transporter_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}}
+  Conversation ID: 1323c33f-4695-4aa9-8147-341c2ef3896d
+
+--- Log Entry 20 ---
+Timestamp: 2026-02-20T19:19:51.913251
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: refuse
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}}
+  Conversation ID: 5a808e53-21f8-48df-9744-586977e61b5d
+
+--- Log Entry 21 ---
+Timestamp: 2026-02-20T19:19:51.913627
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: refuse
+  Sender: transporter_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'deploy_team', 'location': [23, 45], 'victim_id': 'V001', 'mission': 'rescue_operation'}}
+  Conversation ID: 1323c33f-4695-4aa9-8147-341c2ef3896d
+
+--- Log Entry 22 ---
+Timestamp: 2026-02-20T19:19:54.912103
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [10, 20], 'victim_id': 'V002', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: af42a4d1-9fd9-48cf-994c-b51355f74fec
+
+--- Log Entry 23 ---
+Timestamp: 2026-02-20T19:19:54.912489
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [10, 20], 'victim_id': 'V002', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: af42a4d1-9fd9-48cf-994c-b51355f74fec
+
+--- Log Entry 24 ---
+Timestamp: 2026-02-20T19:19:54.913077
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}
+  Conversation ID: 05c64456-cd4a-4aa1-a581-7e5ec10a9308
+
+--- Log Entry 25 ---
+Timestamp: 2026-02-20T19:19:54.913691
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}
+  Conversation ID: 05c64456-cd4a-4aa1-a581-7e5ec10a9308
+
+--- Log Entry 26 ---
+Timestamp: 2026-02-20T19:19:54.914088
+Direction: INCOMING
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}}
+  Conversation ID: 2b74d150-8d35-4d22-a2b7-ca8cdf627b75
+
+--- Log Entry 27 ---
+Timestamp: 2026-02-20T19:19:54.914416
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}}
+  Conversation ID: 2b74d150-8d35-4d22-a2b7-ca8cdf627b75
+
+--- Log Entry 28 ---
+Timestamp: 2026-02-20T19:19:55.912943
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [15, 25], 'victim_id': 'V003', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: 3400461d-1eb2-4704-9452-fd96430ccf5c
+
+--- Log Entry 29 ---
+Timestamp: 2026-02-20T19:19:55.913284
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [15, 25], 'victim_id': 'V003', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: 3400461d-1eb2-4704-9452-fd96430ccf5c
+
+--- Log Entry 30 ---
+Timestamp: 2026-02-20T19:19:55.913748
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}
+  Conversation ID: c302e303-dc17-4f81-bdc2-e419f115150b
+
+--- Log Entry 31 ---
+Timestamp: 2026-02-20T19:19:55.913933
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}
+  Conversation ID: c302e303-dc17-4f81-bdc2-e419f115150b
+
+--- Log Entry 32 ---
+Timestamp: 2026-02-20T19:19:56.913690
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [20, 30], 'victim_id': 'V004', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: 4db2602f-58fe-45fc-8d9e-40b3849ccd40
+
+--- Log Entry 33 ---
+Timestamp: 2026-02-20T19:19:56.913861
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: searcher_agent
+  Receivers: ['coordinator_agent']
+  Content: {'type': 'victim_found', 'location': [20, 30], 'victim_id': 'V004', 'condition': 'injured', 'priority': 'normal'}
+  Conversation ID: 4db2602f-58fe-45fc-8d9e-40b3849ccd40
+
+--- Log Entry 34 ---
+Timestamp: 2026-02-20T19:19:56.914840
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}
+  Conversation ID: b50c9fd1-fb00-4b46-b365-80f76e04fb63
+
+--- Log Entry 35 ---
+Timestamp: 2026-02-20T19:19:56.914989
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}}
+  Conversation ID: df5668b3-7177-43f2-8b47-e1f34379d45e
+
+--- Log Entry 36 ---
+Timestamp: 2026-02-20T19:19:56.915488
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}
+  Conversation ID: b50c9fd1-fb00-4b46-b365-80f76e04fb63
+
+--- Log Entry 37 ---
+Timestamp: 2026-02-20T19:19:56.915704
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [10, 20], 'victim_id': 'V002', 'priority': 'normal'}}
+  Conversation ID: df5668b3-7177-43f2-8b47-e1f34379d45e
+
+--- Log Entry 38 ---
+Timestamp: 2026-02-20T19:19:56.915897
+Direction: INCOMING
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}}
+  Conversation ID: 43689473-1798-4c41-8730-b3f83eebe833
+
+--- Log Entry 39 ---
+Timestamp: 2026-02-20T19:19:56.916229
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}}
+  Conversation ID: 43689473-1798-4c41-8730-b3f83eebe833
+
+--- Log Entry 40 ---
+Timestamp: 2026-02-20T19:19:58.916104
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}}
+  Conversation ID: 3164e1d2-11fa-423c-a51e-67f43849cd60
+
+--- Log Entry 41 ---
+Timestamp: 2026-02-20T19:19:58.916771
+Direction: INCOMING
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}}
+  Conversation ID: bb881c64-909a-4adb-84a5-6e84c269bba6
+
+--- Log Entry 42 ---
+Timestamp: 2026-02-20T19:19:58.917017
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [15, 25], 'victim_id': 'V003', 'priority': 'normal'}}
+  Conversation ID: 3164e1d2-11fa-423c-a51e-67f43849cd60
+
+--- Log Entry 43 ---
+Timestamp: 2026-02-20T19:19:58.917191
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: agree
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'accepted', 'request': {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}}
+  Conversation ID: bb881c64-909a-4adb-84a5-6e84c269bba6
+
+--- Log Entry 44 ---
+Timestamp: 2026-02-20T19:20:00.917988
+Direction: INCOMING
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}}
+  Conversation ID: 76f95b2d-40e9-4cc9-ab04-77b21382770b
+
+--- Log Entry 45 ---
+Timestamp: 2026-02-20T19:20:00.918375
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: inform
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'result': 'action_completed', 'details': {'action': 'treat_victim', 'location': [20, 30], 'victim_id': 'V004', 'priority': 'normal'}}
+  Conversation ID: 76f95b2d-40e9-4cc9-ab04-77b21382770b
+
+--- Log Entry 46 ---
+Timestamp: 2026-02-20T19:20:02.914476
+Direction: INCOMING
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'fly_helicopter', 'reason': 'aerial_support'}
+  Conversation ID: 50efc2cf-8b84-4aa1-8c80-796e2fa83318
+
+--- Log Entry 47 ---
+Timestamp: 2026-02-20T19:20:02.914812
+Direction: OUTGOING
+Destination: localhost:6003
+Message:
+  Performative: request
+  Sender: coordinator_agent
+  Receivers: ['medic_agent']
+  Content: {'action': 'fly_helicopter', 'reason': 'aerial_support'}
+  Conversation ID: 50efc2cf-8b84-4aa1-8c80-796e2fa83318
+
+--- Log Entry 48 ---
+Timestamp: 2026-02-20T19:20:02.915332
+Direction: INCOMING
+Message:
+  Performative: refuse
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'fly_helicopter', 'reason': 'aerial_support'}}
+  Conversation ID: 3c2dcddc-5afa-435d-898f-3f6cea6b1472
+
+--- Log Entry 49 ---
+Timestamp: 2026-02-20T19:20:02.915659
+Direction: OUTGOING
+Destination: localhost:6001
+Message:
+  Performative: refuse
+  Sender: medic_agent
+  Receivers: ['coordinator_agent']
+  Content: {'status': 'refused', 'reason': 'cannot_perform', 'request': {'action': 'fly_helicopter', 'reason': 'aerial_support'}}
+  Conversation ID: 3c2dcddc-5afa-435d-898f-3f6cea6b1472
+
+
+================================================================================
+AGENT MESSAGE HISTORIES
+================================================================================
+
+AGENT: coordinator_agent (Role: coordinator)
+----------------------------------------
+
+SENT MESSAGES:
+  1. [2026-02-20T19:19:45.908916] request -> ['searcher_agent']
+  2. [2026-02-20T19:19:48.910823] request -> ['medic_agent']
+  3. [2026-02-20T19:19:51.910546] request -> ['medic_agent', 'transporter_agent']
+  4. [2026-02-20T19:19:54.912689] request -> ['medic_agent']
+  5. [2026-02-20T19:19:55.913456] request -> ['medic_agent']
+  6. [2026-02-20T19:19:56.914236] request -> ['medic_agent']
+  7. [2026-02-20T19:20:02.913914] request -> ['medic_agent']
+
+RECEIVED MESSAGES:
+  1. [2026-02-20T19:19:45.910554] agree from searcher_agent
+  2. [2026-02-20T19:19:47.911805] inform from searcher_agent
+  3. [2026-02-20T19:19:48.910582] inform from searcher_agent
+  4. [2026-02-20T19:19:48.912077] agree from medic_agent
+  5. [2026-02-20T19:19:50.913030] inform from medic_agent
+  6. [2026-02-20T19:19:51.913113] refuse from medic_agent
+  7. [2026-02-20T19:19:51.913825] refuse from transporter_agent
+  8. [2026-02-20T19:19:54.912465] inform from searcher_agent
+  9. [2026-02-20T19:19:54.914314] agree from medic_agent
+  10. [2026-02-20T19:19:55.913266] inform from searcher_agent
+  11. [2026-02-20T19:19:56.914135] inform from searcher_agent
+  12. [2026-02-20T19:19:56.915980] inform from medic_agent
+  13. [2026-02-20T19:19:56.916340] agree from medic_agent
+  14. [2026-02-20T19:19:58.917102] inform from medic_agent
+  15. [2026-02-20T19:19:58.917392] agree from medic_agent
+  16. [2026-02-20T19:20:00.918340] inform from medic_agent
+  17. [2026-02-20T19:20:02.915629] refuse from medic_agent
+
+AGENT: searcher_agent (Role: searcher)
+----------------------------------------
+
+SENT MESSAGES:
+  1. [2026-02-20T19:19:45.909937] agree -> ['coordinator_agent']
+  2. [2026-02-20T19:19:47.910478] inform -> ['coordinator_agent']
+  3. [2026-02-20T19:19:48.909721] inform -> ['coordinator_agent']
+  4. [2026-02-20T19:19:54.911607] inform -> ['coordinator_agent']
+  5. [2026-02-20T19:19:55.912449] inform -> ['coordinator_agent']
+  6. [2026-02-20T19:19:56.913168] inform -> ['coordinator_agent']
+
+RECEIVED MESSAGES:
+  1. [2026-02-20T19:19:45.909803] request from coordinator_agent
+
+AGENT: medic_agent (Role: medic)
+----------------------------------------
+
+SENT MESSAGES:
+  1. [2026-02-20T19:19:48.911545] agree -> ['coordinator_agent']
+  2. [2026-02-20T19:19:50.912132] inform -> ['coordinator_agent']
+  3. [2026-02-20T19:19:51.912169] refuse -> ['coordinator_agent']
+  4. [2026-02-20T19:19:54.913450] agree -> ['coordinator_agent']
+  5. [2026-02-20T19:19:56.914596] inform -> ['coordinator_agent']
+  6. [2026-02-20T19:19:56.915188] agree -> ['coordinator_agent']
+  7. [2026-02-20T19:19:58.915571] inform -> ['coordinator_agent']
+  8. [2026-02-20T19:19:58.916378] agree -> ['coordinator_agent']
+  9. [2026-02-20T19:20:00.917440] inform -> ['coordinator_agent']
+  10. [2026-02-20T19:20:02.914985] refuse -> ['coordinator_agent']
+
+RECEIVED MESSAGES:
+  1. [2026-02-20T19:19:48.911380] request from coordinator_agent
+  2. [2026-02-20T19:19:51.911998] request from coordinator_agent
+  3. [2026-02-20T19:19:54.913327] request from coordinator_agent
+  4. [2026-02-20T19:19:56.915114] request from coordinator_agent
+  5. [2026-02-20T19:19:58.916252] request from coordinator_agent
+  6. [2026-02-20T19:20:02.914794] request from coordinator_agent
+
+AGENT: transporter_agent (Role: transporter)
+----------------------------------------
+
+SENT MESSAGES:
+  1. [2026-02-20T19:19:51.912727] refuse -> ['coordinator_agent']
+
+RECEIVED MESSAGES:
+  1. [2026-02-20T19:19:51.912457] request from coordinator_agent

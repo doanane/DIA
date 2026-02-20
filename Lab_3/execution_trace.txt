@@ -1,0 +1,39 @@
+============================================================
+RESCUE ROBOT SIMULATION - LAB 3: GOALS, EVENTS, AND REACTIVE BEHAVIOR
+============================================================
+[FSM] Initialized in idle state
+
+=== SIMULATION START ===
+
+--- Simulation Step 1 ---
+[EVENT] hazard_detected published
+[HANDLER] Hazard detected: {'type': 'toxic_gas', 'location': (0, 0), 'severity': 0.8586113041221046}
+[FSM] State transition: idle -> avoiding
+[STATE] Entering AVOIDING mode for toxic_gas hazard
+[ACTUATOR] Avoiding toxic_gas hazard
+[ACTUATOR] Moved to (5, -3), battery: 97.1%
+
+--- Simulation Step 2 ---
+
+--- Simulation Step 3 ---
+
+--- Simulation Step 4 ---
+[EVENT] hazard_detected published
+[HANDLER] Hazard detected: {'type': 'toxic_gas', 'location': (5, -3), 'severity': 0.9840389433275478}
+
+--- Simulation Step 5 ---
+
+--- Simulation Step 6 ---
+
+--- Simulation Step 7 ---
+
+--- Simulation Step 8 ---
+
+--- Simulation Step 9 ---
+
+--- Simulation Step 10 ---
+
+=== SIMULATION END ===
+Final battery level: 97.1%
+Final state: avoiding
+Victims rescued: No

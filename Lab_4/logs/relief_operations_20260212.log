@@ -991,3 +991,377 @@
 [04:07:31] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3679 | Casualties:367
 [04:07:37] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
 [04:07:43] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1987 | Casualties:695
+[13:48:32] [COORDINATOR] INITIALIZED | Disaster coordination center activated
+[13:48:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[13:48:36] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[13:48:36] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2775 | Casualties:971
+[13:48:39] [SENSOR] INITIALIZED | ID: doanane | Monitoring active
+[13:48:39] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3530 | Casualties:1235
+[13:48:43] [RESCUE-RU-0add] INITIALIZED | Status: AVAILABLE | Ready for deployment
+[13:48:46] [RESCUE-RU-1fea] INITIALIZED | Status: AVAILABLE | Ready for deployment
+[13:48:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:0 | Available Logistics:0
+[13:48:48] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3991 | Casualties:1396
+[13:48:50] [RESCUE-RU-2bb7] INITIALIZED | Status: AVAILABLE | Ready for deployment
+[13:48:51] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2307 | Casualties:230
+[13:48:53] [LOGISTICS-LU-abd8] INITIALIZED | Inventory: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319} | Ready for deployment
+[13:48:57] [LOGISTICS-LU-2384] INITIALIZED | Inventory: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374} | Ready for deployment
+[13:48:57] [COORDINATOR] RESCUE AGENT REGISTERED: doanane@xmpp.jp | Available: 1
+[13:48:57] [COORDINATOR] LOGISTICS AGENT REGISTERED: doanane@xmpp.jp | Available: 1
+[13:49:00] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3520 | Casualties:352
+[13:49:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:49:03] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2412 | Casualties:241
+[13:49:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:49:12] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1161 | Casualties:116
+[13:49:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:49:15] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1940 | Casualties:388
+[13:49:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:49:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:49:24] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2319 | Casualties:463
+[13:49:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:49:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2556 | Casualties:255
+[13:49:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:49:36] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:818 | Casualties:81
+[13:49:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:49:39] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:2074 | Casualties:414
+[13:49:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:49:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:49:48] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2677 | Casualties:535
+[13:49:51] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1106 | Casualties:387
+[13:49:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:49:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:50:00] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1459 | Casualties:145
+[13:50:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:50:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1192 | Casualties:119
+[13:50:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:50:12] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2114 | Casualties:211
+[13:50:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:50:15] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:2077 | Casualties:207
+[13:50:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:50:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:50:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3809 | Casualties:380
+[13:50:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:50:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:729 | Casualties:72
+[13:50:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:50:36] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2013 | Casualties:402
+[13:50:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:50:39] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:4533 | Casualties:906
+[13:50:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:50:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:50:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4746 | Casualties:474
+[13:50:51] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1196 | Casualties:119
+[13:50:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:50:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:51:00] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3976 | Casualties:397
+[13:51:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:51:03] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4077 | Casualties:407
+[13:51:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:51:12] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4035 | Casualties:807
+[13:51:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:51:15] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:3253 | Casualties:650
+[13:51:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:51:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:51:24] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1762 | Casualties:352
+[13:51:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:51:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3672 | Casualties:367
+[13:51:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:51:36] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3620 | Casualties:362
+[13:51:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:51:39] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3737 | Casualties:747
+[13:51:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:51:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:51:48] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:419 | Casualties:146
+[13:51:51] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:2421 | Casualties:242
+[13:51:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:51:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:52:00] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3789 | Casualties:757
+[13:52:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:52:03] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:2428 | Casualties:242
+[13:52:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:52:12] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3967 | Casualties:396
+[13:52:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:52:15] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:2978 | Casualties:297
+[13:52:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:52:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:52:24] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:322 | Casualties:32
+[13:52:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:52:27] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1208 | Casualties:422
+[13:52:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:52:36] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:1895 | Casualties:379
+[13:52:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:52:39] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:3611 | Casualties:1263
+[13:52:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:52:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:52:48] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:4262 | Casualties:1491
+[13:52:51] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2965 | Casualties:1037
+[13:52:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:52:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:53:00] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:2663 | Casualties:266
+[13:53:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:53:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2022 | Casualties:404
+[13:53:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:53:12] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2330 | Casualties:466
+[13:53:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:53:15] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:672 | Casualties:134
+[13:53:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:53:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:53:24] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:1468 | Casualties:146
+[13:53:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:53:27] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3748 | Casualties:749
+[13:53:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:53:36] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2849 | Casualties:284
+[13:53:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:53:39] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:4024 | Casualties:402
+[13:53:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:53:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:53:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:345 | Casualties:34
+[13:53:51] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:112 | Casualties:22
+[13:53:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:53:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:54:00] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4460 | Casualties:446
+[13:54:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:54:03] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:1646 | Casualties:576
+[13:54:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:54:12] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:493 | Casualties:172
+[13:54:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:54:15] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3946 | Casualties:1381
+[13:54:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:54:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:54:24] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1662 | Casualties:166
+[13:54:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:54:27] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3649 | Casualties:729
+[13:54:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:54:36] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2403 | Casualties:480
+[13:54:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:54:39] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2388 | Casualties:835
+[13:54:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:54:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:54:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:332 | Casualties:66
+[13:54:51] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:460 | Casualties:92
+[13:54:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:54:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:55:00] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3086 | Casualties:308
+[13:55:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:55:03] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:4124 | Casualties:412
+[13:55:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:55:12] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:4790 | Casualties:958
+[13:55:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:55:15] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:2984 | Casualties:298
+[13:55:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:55:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:55:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4206 | Casualties:1472
+[13:55:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:55:27] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1340 | Casualties:268
+[13:55:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:55:36] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:2363 | Casualties:236
+[13:55:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:55:39] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2491 | Casualties:871
+[13:55:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:55:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:55:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3964 | Casualties:1387
+[13:55:51] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:350 | Casualties:35
+[13:55:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:55:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:56:00] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2928 | Casualties:585
+[13:56:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:56:03] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:968 | Casualties:338
+[13:56:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:56:12] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1384 | Casualties:138
+[13:56:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:56:15] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3848 | Casualties:1346
+[13:56:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:56:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:56:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3278 | Casualties:655
+[13:56:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:56:27] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3627 | Casualties:362
+[13:56:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:56:36] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1681 | Casualties:588
+[13:56:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:56:39] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2627 | Casualties:525
+[13:56:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:56:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:56:48] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:406 | Casualties:40
+[13:56:51] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:2147 | Casualties:429
+[13:56:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:56:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:57:00] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1103 | Casualties:220
+[13:57:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:57:03] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:1851 | Casualties:185
+[13:57:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:57:12] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:362 | Casualties:36
+[13:57:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:57:15] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3023 | Casualties:604
+[13:57:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:57:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:57:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:1884 | Casualties:188
+[13:57:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:57:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4404 | Casualties:440
+[13:57:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:57:36] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:4530 | Casualties:453
+[13:57:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:57:39] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3479 | Casualties:695
+[13:57:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:57:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:57:48] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3144 | Casualties:628
+[13:57:51] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1078 | Casualties:107
+[13:57:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:57:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:58:00] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:1433 | Casualties:286
+[13:58:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:58:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3900 | Casualties:390
+[13:58:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:58:12] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3583 | Casualties:716
+[13:58:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:58:15] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:2367 | Casualties:236
+[13:58:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:58:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:58:24] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2738 | Casualties:547
+[13:58:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:58:27] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3608 | Casualties:1262
+[13:58:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:58:36] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3220 | Casualties:644
+[13:58:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:58:39] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3444 | Casualties:1205
+[13:58:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:58:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:58:48] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:1510 | Casualties:151
+[13:58:51] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:1382 | Casualties:138
+[13:58:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:58:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:59:00] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:3410 | Casualties:341
+[13:59:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:59:03] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1754 | Casualties:613
+[13:59:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:59:12] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:1858 | Casualties:185
+[13:59:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:59:15] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:3651 | Casualties:730
+[13:59:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:59:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:59:24] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:3438 | Casualties:1203
+[13:59:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:59:27] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4297 | Casualties:859
+[13:59:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:59:36] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:547 | Casualties:54
+[13:59:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:59:39] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:192 | Casualties:19
+[13:59:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[13:59:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[13:59:48] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:1496 | Casualties:299
+[13:59:51] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:3494 | Casualties:349
+[13:59:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[13:59:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:00:00] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:MEDIUM | Pop:4279 | Casualties:427
+[14:00:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:00:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:327 | Casualties:114
+[14:00:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:00:12] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1511 | Casualties:528
+[14:00:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:00:15] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:2840 | Casualties:568
+[14:00:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:00:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:00:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3050 | Casualties:610
+[14:00:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:00:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:3507 | Casualties:350
+[14:00:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:00:36] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:4849 | Casualties:484
+[14:00:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:00:39] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:567 | Casualties:113
+[14:00:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:00:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:00:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:272 | Casualties:95
+[14:00:51] [SENSOR] DETECTED: FIRE | Sev:LOW | Pop:1325 | Casualties:132
+[14:00:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:00:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:01:00] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:2954 | Casualties:1033
+[14:01:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:01:03] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:2367 | Casualties:236
+[14:01:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:01:12] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3581 | Casualties:358
+[14:01:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:01:15] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:335 | Casualties:33
+[14:01:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:01:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:01:24] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1424 | Casualties:498
+[14:01:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:01:27] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:2187 | Casualties:765
+[14:01:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:01:36] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:2350 | Casualties:470
+[14:01:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:01:39] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:403 | Casualties:40
+[14:01:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:01:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:01:48] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1149 | Casualties:114
+[14:01:51] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:553 | Casualties:110
+[14:01:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:01:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:02:00] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:248 | Casualties:24
+[14:02:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:02:03] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:1706 | Casualties:170
+[14:02:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:02:12] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:3092 | Casualties:618
+[14:02:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:02:15] [SENSOR] DETECTED: FLOOD | Sev:LOW | Pop:3962 | Casualties:396
+[14:02:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:02:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:02:24] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:3914 | Casualties:1369
+[14:02:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:02:27] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:886 | Casualties:177
+[14:02:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:02:36] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1762 | Casualties:352
+[14:02:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:02:39] [SENSOR] DETECTED: FLOOD | Sev:HIGH | Pop:1787 | Casualties:357
+[14:02:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:02:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:02:48] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:CRITICAL | Pop:1628 | Casualties:569
+[14:02:51] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:HIGH | Pop:4437 | Casualties:887
+[14:02:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:02:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:03:00] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:3879 | Casualties:775
+[14:03:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:03:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:1284 | Casualties:449
+[14:03:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:03:12] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:1449 | Casualties:507
+[14:03:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:03:15] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:LOW | Pop:3602 | Casualties:360
+[14:03:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:03:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:03:24] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:3912 | Casualties:782
+[14:03:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:03:27] [SENSOR] DETECTED: EARTHQUAKE | Sev:MEDIUM | Pop:297 | Casualties:29
+[14:03:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:03:36] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:2011 | Casualties:703
+[14:03:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:03:39] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:HIGH | Pop:2450 | Casualties:490
+[14:03:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:03:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:03:48] [SENSOR] DETECTED: FIRE | Sev:CRITICAL | Pop:757 | Casualties:264
+[14:03:51] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:471 | Casualties:47
+[14:03:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:03:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:04:00] [SENSOR] DETECTED: FLOOD | Sev:CRITICAL | Pop:1954 | Casualties:683
+[14:04:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:04:03] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4300 | Casualties:860
+[14:04:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:04:12] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:MEDIUM | Pop:3375 | Casualties:337
+[14:04:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:04:15] [SENSOR] DETECTED: FIRE | Sev:HIGH | Pop:4361 | Casualties:872
+[14:04:17] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:04:23] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:04:24] [SENSOR] DETECTED: EARTHQUAKE | Sev:LOW | Pop:3695 | Casualties:369
+[14:04:27] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:04:27] [SENSOR] DETECTED: FIRE | Sev:MEDIUM | Pop:1118 | Casualties:111
+[14:04:32] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:04:36] [SENSOR] DETECTED: BUILDING_COLLAPSE | Sev:LOW | Pop:1665 | Casualties:166
+[14:04:38] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:04:39] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:3921 | Casualties:392
+[14:04:42] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:04:47] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:04:48] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:377 | Casualties:37
+[14:04:51] [SENSOR] DETECTED: EARTHQUAKE | Sev:CRITICAL | Pop:4733 | Casualties:1656
+[14:04:53] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:04:57] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
+[14:05:00] [SENSOR] DETECTED: CHEMICAL_SPILL | Sev:CRITICAL | Pop:3645 | Casualties:1275
+[14:05:02] [COORDINATOR] STATUS: Disasters:0 | Rescue Tasks:0 | Supply Tasks:0 | Rescued:0 | Available Rescue:1 | Available Logistics:1
+[14:05:03] [SENSOR] DETECTED: EARTHQUAKE | Sev:HIGH | Pop:1900 | Casualties:380
+[14:05:08] [LOGISTICS-LU-abd8] INVENTORY STATUS: {'food': 354, 'water': 207, 'medical_supplies': 402, 'blankets': 304, 'temporary_shelter': 353, 'fuel': 319}
+[14:05:12] [SENSOR] DETECTED: FLOOD | Sev:MEDIUM | Pop:1854 | Casualties:185
+[14:05:12] [LOGISTICS-LU-2384] INVENTORY STATUS: {'food': 381, 'water': 405, 'medical_supplies': 318, 'blankets': 449, 'temporary_shelter': 315, 'fuel': 374}
