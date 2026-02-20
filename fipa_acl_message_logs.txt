@@ -1,9 +1,8 @@
-================================================================================
+
 FIPA-ACL MESSAGE EXCHANGE LOGS
-================================================================================
 
 MESSAGE TRANSPORT SERVICE LOGS
-----------------------------------------
+
 
 --- Log Entry 1 ---
 Timestamp: 2026-02-20T19:19:45.909492
@@ -521,12 +520,12 @@ Message:
   Conversation ID: 3c2dcddc-5afa-435d-898f-3f6cea6b1472
 
 
-================================================================================
+
 AGENT MESSAGE HISTORIES
-================================================================================
+
 
 AGENT: coordinator_agent (Role: coordinator)
-----------------------------------------
+
 
 SENT MESSAGES:
   1. [2026-02-20T19:19:45.908916] request -> ['searcher_agent']
@@ -557,7 +556,7 @@ RECEIVED MESSAGES:
   17. [2026-02-20T19:20:02.915629] refuse from medic_agent
 
 AGENT: searcher_agent (Role: searcher)
-----------------------------------------
+
 
 SENT MESSAGES:
   1. [2026-02-20T19:19:45.909937] agree -> ['coordinator_agent']
@@ -571,7 +570,7 @@ RECEIVED MESSAGES:
   1. [2026-02-20T19:19:45.909803] request from coordinator_agent
 
 AGENT: medic_agent (Role: medic)
-----------------------------------------
+
 
 SENT MESSAGES:
   1. [2026-02-20T19:19:48.911545] agree -> ['coordinator_agent']
@@ -594,7 +593,7 @@ RECEIVED MESSAGES:
   6. [2026-02-20T19:20:02.914794] request from coordinator_agent
 
 AGENT: transporter_agent (Role: transporter)
-----------------------------------------
+
 
 SENT MESSAGES:
   1. [2026-02-20T19:19:51.912727] refuse -> ['coordinator_agent']
